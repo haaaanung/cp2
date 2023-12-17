@@ -27,6 +27,5 @@ public class StreamExample3 {
                                     .map(p -> p.name)
                                     .toList();
         System.out.println(result);
-
     }
 }
